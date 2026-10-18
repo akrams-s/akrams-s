@@ -10,9 +10,9 @@ I'm a Computer Science student at Mouloud Mammeri University of Tizi Ouzou, Alge
 
 * ✉️  You can contact me at [akram.siguerdjidjene@fgei.ummto.dz](mailto:akram.siguerdjidjene@fgei.ummto.dz)
 * 🧠  I'm currently learning Data Science and Machine Learning.
-* 🚀 Currently working on: Improving my development skills and building projects that combine software engineering, information systems, and intelligent technologies.
-* ⚡️  Ask me about Also I love to run 🏃
-* 🤝 Beyond coding: I'm interested in collaborating with other developers, contributing to tech communities, and sharing knowledge through technology-related events.
+* 🚀  Currently working on: Improving my development skills and building projects that combine software engineering, information systems, and intelligent technologies.
+* ⚡️  Also I love to run 🏃
+* 🤝  Beyond coding: I'm interested in collaborating with other developers, contributing to tech communities, and sharing knowledge through technology-related events.
 
 📫 Let's connect and build something meaningful!
 
